@@ -1,6 +1,6 @@
 #include <string.h> // for strlen()
 #include <stdio.h>
-#include <conio.h>
+#include <activation.h>
 
 // reverse the given null-terminated string in place
 void inplace_reverse(char * str)
